@@ -1,7 +1,7 @@
 .cabecalho {
-    color: #FFF;
+    color: var(--branco);
 
-    background-color: #00161C;
+    /* background-color: #00161C; */
 
     width: 100%;
 
