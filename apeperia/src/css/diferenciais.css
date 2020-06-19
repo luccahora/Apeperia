@@ -30,7 +30,7 @@
 
 .diferenciais__item--especialistas{
     background-image: url('../img/icone-quimica.png');
-    align-content: center;
+}
 
 .item__titulo {
     color: var(--cinza-escuro);
